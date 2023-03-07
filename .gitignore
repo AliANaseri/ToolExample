@@ -1,0 +1,8 @@
+ToolExample/.vs/
+ToolExample/Binaries/
+ToolExample/DerivedDataCache/
+ToolExample/Intermediate/
+ToolExample/Saved/
+*.vsconfig
+*.sln
+
